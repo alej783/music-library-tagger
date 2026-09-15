@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "app_version": "0.4.0",
+  "minimum_bootstrap_version": "0.4.0",
+  "files": [],
+  "taxonomy": {
+    "version": "0.1.0",
+    "url": "https://raw.githubusercontent.com/alej783/music-library-tagger/main/taxonomy/taxonomy.json",
+    "sha256": "3ea357b80e91f8151461d91944447a8efd8f05c1ac11dd19fb4d9c8183cb79df"
+  }
+}
