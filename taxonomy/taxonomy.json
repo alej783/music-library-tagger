@@ -1,0 +1,17 @@
+{
+  "version": "0.1.0",
+  "description": "Taxonomía inicial de Music Library Tagger. Se actualiza independientemente de la aplicación.",
+  "grouping_format": "{label} | {city}",
+  "location_semantics": {
+    "city": "Ciudad asociada al sello o a la edición concreta; no implica origen estilístico.",
+    "country": "País editorial derivado o verificado de la edición.",
+    "continent": "Continente editorial; no se usa por sí solo para inferir género."
+  },
+  "genres": [],
+  "rules": [
+    {
+      "id": "label_city_separation",
+      "text": "Sello, ciudad editorial y género son dimensiones independientes."
+    }
+  ]
+}
